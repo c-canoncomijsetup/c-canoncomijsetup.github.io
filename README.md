@@ -4,7 +4,7 @@
 
 The Canon printer driver software is a famous brand that provides the best printing, scanning, faxing and copying documents. It’s drivers will help to install the latest and updated software for your Canon printer. Visit Canon printer official website: [Canon.com/ijsetup](https://c-canoncomijsetup.github.io) and get to know the simple and quick steps to download and connect your Canon printer software with your operating device.
 
-##  A Quick Guide to Ij  Canon Printer Setup
+##  A Quick Guide to Canon Printer Setup
 
 • Make sure your printer hardware is configured.
 • On your PC browser, go to [Canon.com/ijsetup](https://c-canoncomijsetup.github.io).
